@@ -19,7 +19,7 @@ public class Intermain {
 		@Override
 		public void message() {
 			// TODO Auto-generated method stub
-			
+			System.out.println();
 		}
 	
 	};
